@@ -3,28 +3,13 @@
 > Elm profiles to sponsor
 
 
-## Contents
+## Profiles
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+* [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
 
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Based on the [awesome-haskell-sponsorship](https://github.com/kowainik/awesome-haskell-sponsorship). Thanks for the idea!
