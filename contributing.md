@@ -8,11 +8,22 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- The profiles are sorted alphabetically.
+- The format for a profile is the following:
 
-Thank you for your suggestions!
+```md
+* Name of the profile - [<Sponsorship medium>](link to sponsorship medium), [<Sponsorship medium>](link to sponsorship medium), ...
+```
+
+Example:
+
+
+```md
+* Jane Doe - [GitHub Sponsors](https://github.com/sponsors/janedoe), [Patreon>](https://patreon.com/janedoe)
+* John Doe - [Donation page](https://custom-website-for-john-doe.com/)
+```
+
+The order of the sponsorship mediums is up to the profile's preference. If you're adding someone else, please ask them.
 
 
 ## Updating your PR
