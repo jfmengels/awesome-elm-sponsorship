@@ -16,15 +16,20 @@ Ensure your pull request adheres to the following guidelines:
 ```
 
 Example:
-
-
 ```md
-* Jane Doe - [GitHub Sponsors](https://github.com/sponsors/janedoe), [Patreon>](https://patreon.com/janedoe)
+* Jane Doe - [GitHub Sponsors](https://github.com/sponsors/janedoe), [Patreon](https://patreon.com/janedoe)
 * John Doe - [Donation page](https://custom-website-for-john-doe.com/)
 ```
 
 The order of the sponsorship mediums is up to the profile's preference. If you're adding someone else, please ask them.
 
+You can also make the name of the profile link to their website, and you can optionally add their GitHub page (or equivalent).
+
+
+Example:
+```md
+* [Jane Doe](https://janedoe.com) ([GitHub](https://github.com/janedoe)) - [GitHub Sponsors](https://github.com/sponsors/janedoe), [Patreon>](https://patreon.com/janedoe)
+```
 
 ## Updating your PR
 
