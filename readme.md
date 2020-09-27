@@ -7,6 +7,7 @@
 
 * [Dillon Kearns](https://incrementalelm.com) ([GitHub](https://github.com/dillonkearns)) - [GitHub Sponsors](https://github.com/sponsors/dillonkearns)
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
+* Kolja Lampe ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
 
 
 ## Contribute
