@@ -5,11 +5,13 @@
 
 ## Profiles
 
+Profiles are listed in alphabetical order.
+
 * [Alex Korban](https://korban.net/elm/about) ([GitHub](https://github.com/alexkorban)) - [GitHub Sponsors](https://github.com/sponsors/alexkorban)
 * [Dillon Kearns](https://incrementalelm.com) ([GitHub](https://github.com/dillonkearns)) - [GitHub Sponsors](https://github.com/sponsors/dillonkearns)
+* Jakub Hampl ([GitHub](https://github.com/gampleman)) - [GitHub Sponsors](https://github.com/sponsors/gampleman)
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
 * [razzeee](https://twitter.com/Razzee) ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
-* Jakub Hampl ([GitHub](https://github.com/gampleman)) - [GitHub Sponsors](https://github.com/sponsors/gampleman)
 
 
 ## Contribute
