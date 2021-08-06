@@ -14,6 +14,7 @@ Profiles are listed in alphabetical order.
 * Jakub Hampl ([GitHub](https://github.com/gampleman)) - [GitHub Sponsors](https://github.com/sponsors/gampleman)
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
 * Jon Bockhorst ([GitHub](https://github.com/jmbockhorst/)) - [GitHub Sponsors](https://github.com/sponsors/jmbockhorst)
+* [Mario Rogic](https://twitter.com/realmario) ([GitHub](https://github.com/supermario/)) - [Github Sponsors](http://github.com/sponsors/supermario)
 * [Martin Janiczek](https://twitter.com/Janiczek) ([GitHub](https://github.com/Janiczek/)) - [Patreon](http://patreon.com/janiczek)
 * [razzeee](https://twitter.com/Razzee) ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
 
