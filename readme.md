@@ -18,6 +18,7 @@ Profiles are listed in alphabetical order.
 * [Martin Janiczek](https://twitter.com/Janiczek) ([GitHub](https://github.com/Janiczek/)) - [Patreon](http://patreon.com/janiczek)
 * [razzeee](https://twitter.com/Razzee) ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
 * [Robin Heggelund Hansen](https://twitter.com/robheghan) ([GitHub](https://github.com/robinheghan/)) - [GitHub Sponsors](https://github.com/sponsors/robinheghan)
+* [Wolfgang Schuster](https://twitter.com/wolfadex) ([GitHub](https://github.com/wolfadex/)) - [GitHub Sponsors](https://github.com/sponsors/wolfadex)
 
 
 ## Contribute
