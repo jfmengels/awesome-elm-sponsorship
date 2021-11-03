@@ -17,6 +17,7 @@ Profiles are listed in alphabetical order.
 * [Mario Rogic](https://twitter.com/realmario) ([GitHub](https://github.com/supermario/)) - [Github Sponsors](http://github.com/sponsors/supermario)
 * [Martin Janiczek](https://twitter.com/Janiczek) ([GitHub](https://github.com/Janiczek/)) - [Patreon](http://patreon.com/janiczek)
 * [razzeee](https://twitter.com/Razzee) ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
+* [Robin Heggelund Hansen](https://twitter.com/robheghan) ([GitHub](https://github.com/robinheghan/)) - [GitHub Sponsors](https://github.com/sponsors/robinheghan)
 
 
 ## Contribute
