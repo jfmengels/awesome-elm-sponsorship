@@ -21,6 +21,11 @@ Profiles are listed in alphabetical order.
 * [Wolfgang Schuster](https://twitter.com/wolfadex) ([GitHub](https://github.com/wolfadex/)) - [GitHub Sponsors](https://github.com/sponsors/wolfadex)
 
 
+## Organizations
+
+* [Elm Tooling](https://github.com/elm-tooling/) [opencollective](https://opencollective.com/elm-tooling/)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
