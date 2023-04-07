@@ -15,7 +15,7 @@ Profiles are listed in alphabetical order.
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
 * Jon Bockhorst ([GitHub](https://github.com/jmbockhorst/)) - [GitHub Sponsors](https://github.com/sponsors/jmbockhorst)
 * [Mario Rogic](https://twitter.com/realmario) ([GitHub](https://github.com/supermario/)) - [Github Sponsors](http://github.com/sponsors/supermario)
-* [Martin Janiczek](https://twitter.com/Janiczek) ([GitHub](https://github.com/Janiczek/)) - [Patreon](http://patreon.com/janiczek)
+* [Martin Janiczek](https://twitter.com/Janiczek) ([GitHub](https://github.com/Janiczek/)) - [GitHub Sponsors](https://github.com/sponsors/Janiczek)
 * [razzeee](https://twitter.com/Razzee) ([GitHub](https://github.com/razzeee/)) - [GitHub Sponsors](https://github.com/sponsors/razzeee)
 * [Robin Heggelund Hansen](https://twitter.com/robheghan) ([GitHub](https://github.com/robinheghan/)) - [GitHub Sponsors](https://github.com/sponsors/robinheghan)
 * [Wolfgang Schuster](https://twitter.com/wolfadex) ([GitHub](https://github.com/wolfadex/)) - [GitHub Sponsors](https://github.com/sponsors/wolfadex)
