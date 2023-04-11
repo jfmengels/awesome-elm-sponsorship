@@ -10,6 +10,7 @@ Profiles are listed in alphabetical order.
 * [Alex Korban](https://korban.net/elm/about) ([GitHub](https://github.com/alexkorban)) - [GitHub Sponsors](https://github.com/sponsors/alexkorban)
 * [Andrey Kuzmin](https://twitter.com/unsoundscapes) ([GitHub](https://github.com/w0rm)) - [GitHub Sponsors](https://github.com/sponsors/w0rm)
 * [Dillon Kearns](https://incrementalelm.com) ([GitHub](https://github.com/dillonkearns)) - [GitHub Sponsors](https://github.com/sponsors/dillonkearns)
+* [Flavio Corpa](https://flaviocorpa.com) ([GitHub](https://github.com/kutyel)) - [GitHub Sponsors](https://github.com/sponsors/kutyel)
 * [Jeff Schomay](http://elmnarrativeengine.com/) ([GitHub](https://github.com/jschomay)) - [GitHub Sponsors](https://github.com/sponsors/jschomay)
 * Jakub Hampl ([GitHub](https://github.com/gampleman)) - [GitHub Sponsors](https://github.com/sponsors/gampleman)
 * [Jeroen Engels](https://jfmengels.net/) ([GitHub](https://github.com/jfmengels/)) - [GitHub Sponsors](https://github.com/sponsors/jfmengels)
